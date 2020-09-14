@@ -19,22 +19,22 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/gaurav.jangam.1/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/gaurav-jangam/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/im_gauravvvv/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/gaurav442000",
         "className": "fa fa-github"
       }
     ]
@@ -43,60 +43,65 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Savitribai Phule Pune University",
+        "degree": "Bachelor in Computer Science",
+        "graduated": "March 2020",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Online Door-Step Services",
+        "title": "Services at your door...",
+        "years": "march 2020 - Present",
+        "description": ""
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "online seafood store",
+        "title": " ",
+        "years": "May 2020 - Present",
+        "description": ""
+      },
+      {
+        "company": "Instagram Clone",
+        "title": " ",
+        "years": "Jully 2019 - Present",
+        "description": ""
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "HTML5",
+        "level": "90%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "80%"
       },
       {
-        "name": "Git",
+        "name": "Javascript",
+        "level": "70%"
+      }, 
+      {
+        "name": "ReactJs",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Git",
+        "level": "40%"
       }
+      
+           
+      
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Instagram Clone with React",
+        "category": "Instagram Clone built with ReactJS",
+        "image": "insta.png",
+        "url": "https://instagram-clone-react-c73e1.web.app/"
       },
       {
         "title": "MERN Stack TikTok Clone",
