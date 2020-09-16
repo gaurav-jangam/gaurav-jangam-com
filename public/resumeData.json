@@ -65,7 +65,13 @@
       {
         "company": "Instagram Clone",
         "title": " ",
-        "years": "Jully 2019 - Present",
+        "years": "Jully 2020 - Present",
+        "description": ""
+      },
+      {
+        "company": "Amazon Clone",
+        "title": " ",
+        "years": "September 2020 - Present",
         "description": ""
       }
     ],
@@ -114,6 +120,12 @@
         "category": "visit site",
         "image": "site.png",
         "url": "https://gauravjangam.com/"
+      },
+      {
+        "title": "Amazon Clone with React",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amazon.png",
+        "url": "https://clone-b7668.web.app/"
       }
       
     ]
