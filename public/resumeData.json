@@ -87,7 +87,7 @@
       {
         "name": "Javascript",
         "level": "70%"
-      }, 
+      },
       {
         "name": "ReactJs",
         "level": "60%"
@@ -96,9 +96,6 @@
         "name": "Git",
         "level": "40%"
       }
-      
-           
-      
     ]
   },
   "portfolio": {
@@ -125,9 +122,8 @@
         "title": "Amazon Clone with React",
         "category": "Amazon Clone built with ReactJS",
         "image": "amazon.png",
-        "url": "https://clone-b7668.web.app/"
+        "url": "https://5f66548c40a5fa3639f72688--amazon-clone-gaurav.netlify.app/"
       }
-      
     ]
   },
   "testimonials": {
