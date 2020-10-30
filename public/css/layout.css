@@ -100,14 +100,18 @@ header .social li {
   padding: 0;
 }
 header .social li a {
-   text-shadow: 9px 2px 5px rgba(0, 0, 0, 0.651);
+  text-shadow: 9px 2px 5px rgba(0, 0, 0, 0.651);
   color: #fff;
 }
 header .social li a:hover {
   color: #11abb0;
-  
 
-  -webkit-mask-image: linear-gradient(-75deg, rgba(0,0,0,.6) 30%, #000 50%, rgba(0,0,0,.6) 70%);
+  -webkit-mask-image: linear-gradient(
+    -75deg,
+    rgba(0, 0, 0, 0.6) 30%,
+    #000 50%,
+    rgba(0, 0, 0, 0.6) 70%
+  );
   -webkit-mask-size: 200%;
   animation: shine 2s infinite;
 }
@@ -116,7 +120,7 @@ header .social li a:hover {
   from {
     -webkit-mask-position: 150%;
   }
-  
+
   to {
     -webkit-mask-position: -50%;
   }
@@ -216,25 +220,29 @@ ul#nav li a:active {
 ul#nav li.current a {
   color: #f06000;
 }
-ul#nav li a:hover{
-   color: #11abb0;
-   text-shadow: 9px 2px 7px rgba(0, 0, 0, 0.425);
- 
-   -webkit-mask-image: linear-gradient(-75deg, rgba(0,0,0,.6) 30%, #000 50%, rgba(0,0,0,.6) 70%);
-   -webkit-mask-size: 200%;
-   animation: shine 1s infinite;
- }
- 
- @-webkit-keyframes shine {
-   from {
-     -webkit-mask-position: 150%;
-   }
-   
-   to {
-     -webkit-mask-position: -50%;
-   }
- }
+ul#nav li a:hover {
+  color: #11abb0;
+  text-shadow: 9px 2px 7px rgba(0, 0, 0, 0.425);
 
+  -webkit-mask-image: linear-gradient(
+    -75deg,
+    rgba(0, 0, 0, 0.6) 30%,
+    #000 50%,
+    rgba(0, 0, 0, 0.6) 70%
+  );
+  -webkit-mask-size: 200%;
+  animation: shine 1s infinite;
+}
+
+@-webkit-keyframes shine {
+  from {
+    -webkit-mask-position: 150%;
+  }
+
+  to {
+    -webkit-mask-position: -50%;
+  }
+}
 
 /* ------------------------------------------------------------------ */
 /* c. About Section
@@ -250,10 +258,15 @@ ul#nav li a:hover{
 #about a,
 #about a:visited {
   color: #fff;
-  -webkit-mask-image: linear-gradient(-75deg, rgba(0,0,0,.6) 30%, #000 50%, rgba(0,0,0,.6) 70%);
-   -webkit-mask-size: 70%;
-   animation:  1s infinite;
- }
+  -webkit-mask-image: linear-gradient(
+    -75deg,
+    rgba(0, 0, 0, 0.6) 30%,
+    #000 50%,
+    rgba(0, 0, 0, 0.6) 70%
+  );
+  -webkit-mask-size: 70%;
+  animation: 1s infinite;
+}
 
 #about a:hover,
 #about a:focus {
@@ -498,7 +511,6 @@ ul#nav li a:hover{
   background: #ebeeee;
   padding-top: 90px;
   padding-bottom: 60px;
-  
 }
 #portfolio h1 {
   font: 15px/24px "opensans-semibold", sans-serif;
@@ -519,7 +531,6 @@ ul#nav li a:hover{
   margin-bottom: 36px;
 }
 .portfolio-item .item-wrap {
-   
   background: #fff;
 
   overflow: hidden;
@@ -538,7 +549,6 @@ ul#nav li a:hover{
 
 /* overlay */
 .portfolio-item .item-wrap .overlay {
-   
   position: absolute;
   left: 0;
   top: 0;
