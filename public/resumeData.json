@@ -51,33 +51,39 @@
     ],
     "work": [
       {
+        "company": "Website",
+        "title": "www.gauravjangam.com",
+        "years": "December 2019",
+        "description": ""
+      },
+      {
         "company": "Online Door-Step Services",
         "title": "Services at your door...",
-        "years": "march 2020 - Present",
-        "description": ""
+        "years": "March 2020 ",
+        "description": "(Not deployed)"
       },
       {
         "company": "online seafood store",
         "title": " ",
-        "years": "May 2020 - Present",
+        "years": "May 2020",
         "description": ""
       },
       {
         "company": "Instagram Clone",
         "title": " ",
-        "years": "Jully 2020 - Present",
+        "years": "Jully 2020",
         "description": ""
       },
       {
         "company": "Amazon Clone",
         "title": " ",
-        "years": "September 2020 - Present",
+        "years": "September 2020",
         "description": ""
       }
     ],
     "skills": [
       {
-        "name": "HTML5",
+        "name": "HTML",
         "level": "90%"
       },
       {
@@ -101,10 +107,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Instagram Clone with React",
-        "category": "Instagram Clone built with ReactJS",
-        "image": "insta.png",
-        "url": "https://instagram-clone-react-c73e1.web.app/"
+        "title": "My site",
+        "category": "visit site",
+        "image": "site.png",
+        "url": "https://gauravjangam.com/"
       },
       {
         "title": "SEA FOOD STORE with React",
@@ -113,10 +119,10 @@
         "url": "https://onlineseafoodstore.netlify.app/"
       },
       {
-        "title": "My site",
-        "category": "visit site",
-        "image": "site.png",
-        "url": "https://gauravjangam.com/"
+        "title": "Instagram Clone with React",
+        "category": "Instagram Clone built with ReactJS",
+        "image": "insta.png",
+        "url": "https://instagram-clone-react-c73e1.web.app/"
       },
       {
         "title": "Amazon Clone with React",
@@ -129,12 +135,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "",
-        "user": ""
+        "text": "If debugging is the process of removing software bugs, then programming must be the process of putting them in",
+        "user": "Edsger Dijkstra"
       },
       {
-        "text": "",
-        "user": ""
+        "text": "Software always remain softly for End users! But sometimes hardly to developers!",
+        "user": "Bananeza Pacifique"
       }
     ]
   }
