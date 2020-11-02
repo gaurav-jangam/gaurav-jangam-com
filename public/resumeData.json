@@ -79,6 +79,12 @@
         "title": " ",
         "years": "September 2020",
         "description": ""
+      },
+      {
+        "company": "WhatsApp Clone",
+        "title": " ",
+        "years": "November 2020",
+        "description": ""
       }
     ],
     "skills": [
@@ -129,6 +135,12 @@
         "category": "Amazon Clone built with ReactJS",
         "image": "amazon.png",
         "url": "https://amazon-clone-gaurav.netlify.app/"
+      },
+      {
+        "title": "WhatsApp Clone with React",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "whatsapp.png",
+        "url": "https://whats-app-a1160.firebaseapp.com/"
       }
     ]
   },
